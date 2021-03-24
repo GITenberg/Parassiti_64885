@@ -1,0 +1,22 @@
+_repo: Parassiti_64885
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Antona-Traversi, Camillo
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '41597'
+    url: http://www.gutenberg.org/2009/agents/41597
+description: ''
+gutenberg_issued: '2021-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64885'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Parassiti
+url: http://www.gutenberg.org/ebooks/64885
